@@ -1,0 +1,30 @@
+[
+   {
+      "name": "SALMON STICK",
+      "description": "Bastones de salmón rosado rebozados en panko con salsa maracuyá.",
+      "price": "690",
+      "thumbnail": "http://localhost:8080/img/-pexels-photo-628776.jpeg",
+      "id": 1
+   },
+   {
+      "name": "GYOZA (6 UNIDADES)",
+      "description": "Empanaditas de cerdo y cebolla de verdeo cocidas al vapor y doradas a la plancha.",
+      "price": "1050",
+      "thumbnail": "http://localhost:8080/img/-pexels-photo-3297363.jpeg",
+      "id": 2
+   },
+   {
+      "name": "YAKITORI (5 UNIDADES)",
+      "description": "Brochette de pollo, cebolla y cebolla de verdeo con salsa teriyaki.",
+      "price": "1700",
+      "thumbnail": "http://localhost:8080/img/-pexels-photo-3298180.jpeg",
+      "id": 4
+   },
+   {
+      "name": "HARUMAKI (3 UNIDADES)",
+      "description": "Crocante arrolladito primavera de carne o verdura.",
+      "price": "1250",
+      "thumbnail": "http://localhost:8080/img/-pexels-photo-3304057.jpeg",
+      "id": 5
+   }
+]
